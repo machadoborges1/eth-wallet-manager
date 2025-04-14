@@ -1,4 +1,3 @@
-// services/ethWallet.js
 const { validateAddress, toWei, fromWei } = require('web3-utils');
 const BlockchainService = require('./blockchainService');
 
